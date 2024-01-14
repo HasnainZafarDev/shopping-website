@@ -13,10 +13,10 @@ const Navbar = () => {
             CATRGORIES
           </Link>
           <Link href="#" className="navbar__link relative">
-            MEN'S
+            MENS
           </Link>
           <Link href="#" className="navbar__link relative">
-            WOMEN'S
+            WOMENS
           </Link>
           <Link href="#" className="navbar__link relative">
             JEWELERY
