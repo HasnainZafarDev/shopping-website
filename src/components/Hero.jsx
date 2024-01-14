@@ -17,7 +17,7 @@ const Hero = () => {
       id: 0,
       img: "/banner-1.jpg",
       title: "Trending Item",
-      mainTitle: "WOMEN'S LATEST FASHION SALE",
+      mainTitle: "WOMENS LATEST FASHION SALE",
       price: "$20",
     },
     {
