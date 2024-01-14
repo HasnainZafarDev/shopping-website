@@ -20,7 +20,7 @@ const NewProducts = () => {
     {
       img: "/party-wear-1.jpg",
       title: "Party Wear",
-      desc: "Women's Party Wear Shoes",
+      desc: "Women Party Wear Shoes",
       rating: 3,
       price: "25.00",
     },
