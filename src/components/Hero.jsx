@@ -15,21 +15,22 @@ const Hero = () => {
   const slideData = [
     {
       id: 0,
-      img: "/banner-1.jpg",
+      
+      img: "https://images.pexels.com/photos/325876/pexels-photo-325876.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
       title: "Trending Item",
       mainTitle: "WOMENS LATEST FASHION SALE",
       price: "$20",
     },
     {
       id: 1,
-      img: "/banner-2.jpg",
+      img: "https://images.pexels.com/photos/298864/pexels-photo-298864.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
       title: "Trending Asseccories",
       mainTitle: "MODERN SUNGLASSES",
       price: "$15",
     },
     {
       id: 2,
-      img: "/banner-3.jpg",
+      img: "https://images.pexels.com/photos/167703/pexels-photo-167703.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
       title: "Sale Offer",
       mainTitle: "NEW FASHION WINTER SALE",
       price: "$30",
