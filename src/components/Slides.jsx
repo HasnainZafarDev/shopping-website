@@ -6,7 +6,7 @@ const Slides = ({ img, title, mainTitle, price }) => {
     <div className="outline-none border-none relative">
       <div
         className="absolute left-[30px] md:left-[30px] max-w-250px sm:max-w-[350px] top-[50%]
-         -translate-y-[50%] space-y-2 lg:space-y-4 bg-[#ffffffa2] sm:bg-transparent p-4 sm:p-0
+         -translate-y-[50%] space-y-2 lg:space-y-4  sm:bg-transparent p-4 sm:p-0
          rounded-lg sm:rounded-none"
       >
         <h3 className="text-accent text-[24px] lg:text-[28px]">{title}</h3>
@@ -33,7 +33,7 @@ const Slides = ({ img, title, mainTitle, price }) => {
         src={img}
         alt="banner"
         width={2000}
-        height={2000}
+        height={1000}
       />
     </div>
   );
