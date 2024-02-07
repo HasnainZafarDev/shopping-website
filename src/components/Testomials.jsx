@@ -11,9 +11,9 @@ const Testimonial = () => {
             <div className="text-center flex flex-col items-center gap-1">
               <Image
                 className="rounded-full inline-block"
-                src="/user.jpg"
+                src="/hasnain.jpg"
                 width={80}
-                height={80}
+                height={30}
                 alt="dp"
               />
               <h2 className="text-gray-500 font-black text-[20px]">Elsa Doe</h2>
